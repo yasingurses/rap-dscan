@@ -1,0 +1,10 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-08-28 15:36 EDT
+Nmap scan report for rappelzdark.com (185.130.58.99)
+Host is up (0.019s latency).
+rDNS record for 185.130.58.99: mail.han.group
+
+PORT   STATE SERVICE
+80/tcp open  http
+|_http-security-headers: 
+
+Nmap done: 1 IP address (1 host up) scanned in 1.47 seconds

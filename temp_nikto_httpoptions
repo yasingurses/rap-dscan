@@ -1,0 +1,13 @@
+- Nikto v2.1.6
+---------------------------------------------------------------------------
++ Target IP:          185.130.58.99
++ Target Hostname:    rappelzdark.com
++ Target Port:        80
++ Start Time:         2020-08-28 15:37:01 (GMT-4)
+---------------------------------------------------------------------------
++ Server: Apache
++ Web Server returns a valid response with junk HTTP methods, this may cause false positives.
++ 241 requests: 0 error(s) and 1 item(s) reported on remote host
++ End Time:           2020-08-28 15:37:09 (GMT-4) (8 seconds)
+---------------------------------------------------------------------------
++ 1 host(s) tested
